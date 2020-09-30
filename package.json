@@ -1,0 +1,22 @@
+{
+  "name": "object-oriented-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FullmerJake/object-oriented-rpg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FullmerJake/object-oriented-rpg/issues"
+  },
+  "homepage": "https://github.com/FullmerJake/object-oriented-rpg#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
